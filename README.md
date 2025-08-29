@@ -1,4 +1,4 @@
-![Users](janus-research-centre-logo)
+![Users](janus-research-centre-logo.jpg)
 
 1. For Janus, new users must be authorized by Mick McCann directly.
 2. Get a brief summary of what the user requires, storage, GPU, CPU, etc.
