@@ -1,7 +1,7 @@
 ![Users](janus-research-centre-logo.jpg)
 # Guidelines for creating new users
 
-1. For Janus, new users must be authorized by Mick McCann directly.
+1. New users must be authorized by Mick McCann directly.
 2. Get a brief summary of what the user requires, storage, GPU, CPU, etc.
 3. Scripts must be run with elevated priviledge. 
 4. Map the existing user accounts and check the highest number UID using [this script](https://github.com/Janus-ATU/Powershell/blob/main/Scripts/GetUID.ps1). 
@@ -15,5 +15,5 @@
 
 # Guidelines for creating administrative users
 
-1. For Janus, new users with sudo privilege must be authorized by Mick McCann AND John ORaw directly.
+1. New users with sudo privilege must be authorized by Mick McCann AND John ORaw directly.
 2. New users are created via the BRIGHT application. This also create the underlying Linux account.
