@@ -15,5 +15,5 @@
 
 # Guidelines for creating administrative users
 
-1. For Janus, new users with sudo priviledge must be authorized by Mick McCann AND John ORaw directly.
+1. For Janus, new users with sudo privilege must be authorized by Mick McCann AND John ORaw directly.
 2. New users are created via the BRIGHT application. This also create the underlying Linux account.
