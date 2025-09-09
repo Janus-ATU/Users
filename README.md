@@ -12,3 +12,8 @@
 9. Test that access to hpc-101 works by logging on via RDP. You must login via RDP or the correct directory structure will not be created under */home/firstname.surname*
 10. As the new user, create a folder in /HPC as */HPC/firstname.surname*
 11. Log out and direct the new user to the user documentation so they can test and verify.
+
+# Guidelines for creating administrative users
+
+1. For Janus, new users must be authorized by Mick McCann AND John ORaw directly.
+2. New users are created via the BRIGHT application. This also create the underlying Linux account.
