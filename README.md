@@ -17,3 +17,4 @@
 
 1. New users with sudo privilege must be authorized by Mick McCann AND John ORaw directly.
 2. New users are created via the BRIGHT application. This also create the underlying Linux account.
+3. Administrative user account start at UID = 1100. Check exisitng user accounts and use the next free available UID.
